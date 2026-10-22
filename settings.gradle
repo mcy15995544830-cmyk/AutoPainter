@@ -1,0 +1,2 @@
+rootProject.name = "AutoPainter"
+include ':app'
